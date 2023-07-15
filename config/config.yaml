@@ -1,0 +1,7 @@
+Mongo_Database:
+  url:"mongodb+srv://sairam:sairam8662@cluster0.lyahcgb.mongodb.net/?retryWrites=true&w=majority"
+  database_name:"Anomaly_Detection"
+  collection_name:"credit_card_fraud"
+
+Dataingestion:
+  raw_data_file_path:'artifacts/raw.csv'

@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+scikit-learn
+dill
+pymongo
+config-box
+python-box
+certifi
+-e .
